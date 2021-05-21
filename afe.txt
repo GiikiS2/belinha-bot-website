@@ -1,3 +1,0 @@
-<img src="https://media.discordapp.net/attachments/840819057761452042/844268055894294558/unknown.png?width=425&height=350" class="myImage"/>
-
-      <h3 class="heading">👋 | mensagens de boas vindas personalizadas com o comando b*welcome <img class="emoji" src="https://cdn.discordapp.com/emojis/838497281086717962.png?v=1" width="35" height="35"> </h3>
